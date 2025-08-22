@@ -19,5 +19,7 @@
 
 <h3 align="left">Pilhas</h3>
 
-<div>🇧🇷Português Nativo
-🇺🇸Inglês Básico</div>
+<div>
+  🇧🇷 Português — Nativo <br/>
+  🇺🇸 Inglês — Básico
+</div>
