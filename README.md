@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Cursando Bacharelado em Engenharia da Computação (4º/10º semestre) na Universidade PUC Minas.</p>
+<p align="left">Cursando Bacharelado em Engenharia da Computação (5º/10º semestre) na Universidade PUC Minas.</p>
 
 ###
 
